@@ -6,7 +6,7 @@ Simple connect server using [feed-mixer](https://github.com/AaronAcerboni/feed-m
 ## Usage
 
 ```
-npm init
+npm install
 node app.js
 ```
 
