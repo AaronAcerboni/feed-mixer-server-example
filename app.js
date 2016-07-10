@@ -10,7 +10,8 @@ mixer.events.on('refreshComplete', function (feed) {
 })
 
 mixer.events.on('refreshStart', function () {
-    console.log('Fetching/creating initial feed');
+    console.log('Fetching/creating initial feed.');
+    console.log('Server not ready yet.');
 })
 
 // Server
@@ -26,6 +27,7 @@ function readyServer () {
         response.end(aggregateFeed);
     });
     console.log('Done. Server accepting requests.');
+    console.log('Visit localhost:3000');
     app.listen(3000);
 }
 
