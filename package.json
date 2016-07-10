@@ -1,0 +1,27 @@
+{
+  "name": "feed-mixer-server-example",
+  "version": "1.0.0",
+  "description": "Example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronAcerboni/feed-mixer-server-example.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Aaron Acerboni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronAcerboni/feed-mixer-server-example/issues"
+  },
+  "homepage": "https://github.com/AaronAcerboni/feed-mixer-server-example#readme",
+  "dependencies": {
+    "connect": "^3.4.1",
+    "feed-mixer": "^0.0.6"
+  },
+  "devDependencies": {}
+}
