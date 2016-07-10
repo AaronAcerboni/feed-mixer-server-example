@@ -1,6 +1,6 @@
 # feed-mixer-server-example
 
-Simple connect server using feed-mixer. It polls and aggregates the feeds specified in 
+Simple connect server using [feed-mixer](https://github.com/AaronAcerboni/feed-mixer). It polls and aggregates the feeds specified in 
 `config.json` and delivers it over HTTP.
 
 ## Usage
