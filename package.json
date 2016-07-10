@@ -21,7 +21,7 @@
   "homepage": "https://github.com/AaronAcerboni/feed-mixer-server-example#readme",
   "dependencies": {
     "connect": "^3.4.1",
-    "feed-mixer": "^0.0.6"
+    "feed-mixer": "^0.0.9"
   },
   "devDependencies": {}
 }
