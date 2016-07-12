@@ -10,5 +10,5 @@ npm install
 node app.js
 ```
 
-Visit `localhost:3000` in your browser. The connect server won't respond to your 
-request until it has collected the initial aggregate feed.
+Visit `localhost:3000` in your browser. **The connect server won't respond to your 
+request until it has collected the initial aggregate feed.**
